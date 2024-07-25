@@ -1,3 +1,6 @@
+### This fork is reached EOL. Please use [Mods-Center/Package-Installer](https://github.com/Mods-Center/Package-Installer).
+
+
 ## Modern Package Installer
 ![MIUIXD](https://github.com/Mods-Center/Package-Installer/assets/83476983/9e068605-d6d0-4ea4-ac6d-9a1269805249)
 A nice package installer with a new user interface.
